@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val studentsMarks = mutableMapOf<String, Int>()
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15883#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 12 Apr 2023 18:20:47 UTC
+record: -1

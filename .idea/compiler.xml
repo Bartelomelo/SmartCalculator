@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-classes-kotlin.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Smart_Calculator__Kotlin_-task.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Mutable_Map-About_Mutable_Map.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Mutable_Map-Correct_initialization.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Mutable_Map-Exam_marks.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Mutable_Map-The_output_of_two_maps.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Mutable_Map-Theory.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps-Can_you.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps-Escapism.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps-The_dot.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps-Theory.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps_in_use-Aaaaaaa_to_a.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps_in_use-Serial_number_for_game.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps_in_use-Theory.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).Topics-Regexps_in_use-Web_colors.main" target="11" />
+      <module name="Smart_Calculator_(Kotlin).util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
